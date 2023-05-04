@@ -8,7 +8,7 @@
 
 ## 1. Sobre o projeto
 
-Neste projeto focado em Back-end, foi criado uma ferramenta de linha de comando (CLI) que tem como objetivo permitir que o usuário execute a biblioteca diretamente do terminal, através de um módulo do Node.js que analisa e identifica links em arquivos [Markdown](https://pt.wikipedia.org/wiki/Markdown), e verifica o status https de cada um deles.
+Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando (CLI) que tem como objetivo permitir que o usuário execute a biblioteca diretamente do terminal, através de um módulo do Node.js que analisa e identifica links em arquivos [Markdown](https://pt.wikipedia.org/wiki/Markdown), e verifica o status _HTTPS_ de cada um deles.
 
 
 ## 2. Comandos
