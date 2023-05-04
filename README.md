@@ -15,25 +15,25 @@ Neste projeto focado em Back-end, foi criado uma ferramenta de linha de comando 
 
 * Para instalar, execute o seguinte comando no terminal:
 
-`polyana-feitoza/SAP009-md-links`
+  `polyana-feitoza/SAP009-md-links`
 
 * Após a instalação, é possível executar os seguintes comandos:
 
-`md-links ./nomeDoDiretório/caminhoDoArquivo`
+  `md-links ./nomeDoDiretório/caminhoDoArquivo`
 
-Esse comando lê o arquivo Markdown especificado e imprime o caminho do arquivo, os links encontrados e seus textos correspondentes.
+  Esse comando lê o arquivo Markdown especificado e imprime o caminho do arquivo, os links encontrados e seus textos correspondentes.
 
-`md-links ./nomeDoDiretório/caminhoDoArquivo --validate`
+  `md-links ./nomeDoDiretório/caminhoDoArquivo --validate`
 
-Ao adicionar a flag --validate, o módulo fará uma requisição HTTP para verificar se cada link funciona ou não. Se o link existir e funcionar, será considerado como um link válido. Caso contrário, será marcado como inválido.
+  Ao adicionar a flag --validate, o módulo fará uma requisição HTTP para verificar se cada link funciona ou não. Se o link existir e funcionar, será considerado como um link válido. Caso contrário, será marcado como inválido.
 
-`md-links ./nomeDoDiretório/caminhoDoArquivo --stats`
+  `md-links ./nomeDoDiretório/caminhoDoArquivo --stats`
 
-Ao adicionar a flag --stats, será exibido um resumo estatístico dos links encontrados no arquivo especificado. Será mostrado o número total de links e o número de links únicos.
+  Ao adicionar a flag --stats, será exibido um resumo estatístico dos links encontrados no arquivo especificado. Será mostrado o número total de links e o número de links únicos.
 
-`md-links ./nomeDoDiretório/caminhoDoArquivo --validate --stats`
+  `md-links ./nomeDoDiretório/caminhoDoArquivo --validate --stats`
 
-Ao adicionar as flags --stats e --validate juntas, além das informações de total de links e links únicos, também será exibido o número de links inválidos (broken) encontrados.
+  Ao adicionar as flags --stats e --validate juntas, além das informações de total de links e links únicos, também será exibido o número de links inválidos (broken) encontrados.
 
 ### 3. Ferramentas utilizadas
 
