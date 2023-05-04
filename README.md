@@ -3,8 +3,8 @@
 
 ## Índice
 * [1. Sobre o projeto](#1-sobre-o-projeto)
-* [2. Comandos](#2-como-usar)
-* [3. Ferramentas utilizadas](#3-ferramentas)
+* [2. Comandos](#2-comandos)
+* [3. Ferramentas utilizadas](#3-ferramentas-utilizadas)
 
 ## 1. Sobre o projeto
 
