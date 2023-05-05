@@ -15,9 +15,7 @@ Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando 
 
 * Para instalar, execute o seguinte comando no terminal:
 
-  `  `  `
-  polyana-feitoza/SAP009-md-links
-  `  `  `
+  `polyana-feitoza/SAP009-md-links`
 
 * Após a instalação, é possível executar os seguintes comandos:
 
