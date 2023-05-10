@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import chalk from 'chalk';
 import process from 'process';
-import fetch from 'node-fetch';
 import { mdLinks } from './md-links.js';
 
 const caminhoDoArquivo = process.argv[2];
