@@ -42,4 +42,4 @@ Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando 
 * Jest
 * GitHub
 
-[Meu Linkedln :)](https://www.linkedin.com/in/polyftza/)
+**[Meu Linkedln :)](https://www.linkedin.com/in/polyftza/)**
