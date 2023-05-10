@@ -41,3 +41,5 @@ Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando 
 * JavaScript
 * Jest
 * GitHub
+
+* [Meu Linkedln :)](https://www.linkedin.com/in/polyftza/)
