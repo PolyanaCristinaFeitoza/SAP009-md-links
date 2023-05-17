@@ -1,6 +1,5 @@
 # Markdown Links 🔗
 ![Imagem de link](src/md-links.svg)
-  **[NPM Lib](https://www.npmjs.com/package/md-links-polyanafeitoza)**
 
 ## Índice
 * [1. Sobre o projeto](#1-sobre-o-projeto)
@@ -43,7 +42,5 @@ Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando 
 * Jest
 * GitHub
 
-**[NPM Lib](https://www.npmjs.com/package/md-links-polyanafeitoza)**
-
-**[Meu Linkedin :)](https://www.linkedin.com/in/polyftza/)**
+**[Biblioteca Publicada 👀](https://www.npmjs.com/package/md-links-polyanafeitoza)**
 
