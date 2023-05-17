@@ -1,5 +1,6 @@
 # Markdown Links 🔗
 ![Imagem de link](src/md-links.svg)
+  `**[NPM Lib](https://www.npmjs.com/package/md-links-polyanafeitoza)**`
 
 ## Índice
 * [1. Sobre o projeto](#1-sobre-o-projeto)
