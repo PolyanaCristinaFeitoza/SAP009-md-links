@@ -42,5 +42,5 @@ Neste projeto focado em Back-End, foi criado uma ferramenta de linha de comando 
 * Jest
 * GitHub
 
-**[Biblioteca Publicada]👀(https://www.npmjs.com/package/md-links-polyanafeitoza)**
+**[Biblioteca Publicada 👀](https://www.npmjs.com/package/md-links-polyanafeitoza)**
 
